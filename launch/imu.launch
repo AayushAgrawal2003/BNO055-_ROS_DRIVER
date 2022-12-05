@@ -1,0 +1,3 @@
+<launch>
+    <node name ="usb_serial_pub" pkg = "AO_IMU" type="publisher.py" output = 'screen' />
+</launch> 
